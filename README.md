@@ -1,25 +1,27 @@
-# 👋 Hi, I’m @Enokimoks
+# 👋 Hi, I’m Enoch
 
 ### 👀 About Me
 I’m a Library and Information Science student.  
-I’m passionate about data, programming, and storytelling through animation.  
-I enjoy combining creativity and logic — from analyzing data in Excel or Python to creating 2D animations for fun and side income.
+I’m a data analyst
+I make 2d animations and post them on youtube
+YouTube channel link: @enochanimates1719
 
 ### 💻 Skills & Tools
-- **Python:** data analysis, automation, and small projects  
-- **Java:** UI-based and creative applications  
+- **Python:** data analysis, small projects  
+- **Java:** small projects  
 - **Excel:** data visualization and dashboard design  
 - **Adobe CS3 & Macromedia Flash 8:** 2D animation and content creation  
 
 ### 🌱 Currently Learning
-- Advanced Excel and practical data storytelling  
+- Python for data analysis 
 - More Python and Java for applied projects  
 - How to build creative and useful portfolio projects
+- Blender for 2d and 3d animation
+  
 
 ### 💞️ I’m looking to collaborate on
-- Data analysis and visualization projects  
-- Open data or educational projects  
-- General creative and tech-focused collaborations
+- Data analysis 
+- goofy 2d animation skits
 
 ### 📫 How to reach me
 Email: **enokimoks@gmail.com**
@@ -27,8 +29,7 @@ Email: **enokimoks@gmail.com**
 ---
 
 ### ⚡ Fun fact
-When I’m not coding or analyzing data, I’m animating funny or expressive 2D stories.  
-I love mixing creativity, logic, and storytelling to build things that teach, entertain, or inspire.
+I love ben 10 and my favourite alien is diamond head
 
 
 <!---
